@@ -1,1 +1,1 @@
-
+The data in this folder represents the raw accelerometer data from the OPTIMISTIC trial. The first column represents the time index (in steps of 5s, so step 1 is at t = 0s, step 2 is at t = 5s, etc). The second column represents the activity itself. Files starting with 'A', 'B', 'C', or 'D' contain accelerometer data from DM1 individuals. Files starting with 'healthy' contain accelerometer data from healthy individuals.
